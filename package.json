@@ -1,0 +1,23 @@
+{
+  "name": "wms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch items.json "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F34th3R/api-fortesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F34th3R/api-fortesting/issues"
+  },
+  "homepage": "https://github.com/F34th3R/api-fortesting#readme"
+}
