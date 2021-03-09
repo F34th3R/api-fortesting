@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npm i -g json-server && json-server items.json "
+    "start": "json-server items.json "
   },
   "repository": {
     "type": "git",
